@@ -1,0 +1,15 @@
+D:\cs\CalculatorFullString\CalculatorFullString\obj\Debug\net7.0\CalculatorFullString.csproj.AssemblyReference.cache
+D:\cs\CalculatorFullString\CalculatorFullString\obj\Debug\net7.0\CalculatorFullString.GeneratedMSBuildEditorConfig.editorconfig
+D:\cs\CalculatorFullString\CalculatorFullString\obj\Debug\net7.0\CalculatorFullString.AssemblyInfoInputs.cache
+D:\cs\CalculatorFullString\CalculatorFullString\obj\Debug\net7.0\CalculatorFullString.AssemblyInfo.cs
+D:\cs\CalculatorFullString\CalculatorFullString\obj\Debug\net7.0\CalculatorFullString.csproj.CoreCompileInputs.cache
+D:\cs\CalculatorFullString\CalculatorFullString\bin\Debug\net7.0\CalculatorFullString.exe
+D:\cs\CalculatorFullString\CalculatorFullString\bin\Debug\net7.0\CalculatorFullString.deps.json
+D:\cs\CalculatorFullString\CalculatorFullString\bin\Debug\net7.0\CalculatorFullString.runtimeconfig.json
+D:\cs\CalculatorFullString\CalculatorFullString\bin\Debug\net7.0\CalculatorFullString.dll
+D:\cs\CalculatorFullString\CalculatorFullString\bin\Debug\net7.0\CalculatorFullString.pdb
+D:\cs\CalculatorFullString\CalculatorFullString\obj\Debug\net7.0\CalculatorFullString.dll
+D:\cs\CalculatorFullString\CalculatorFullString\obj\Debug\net7.0\refint\CalculatorFullString.dll
+D:\cs\CalculatorFullString\CalculatorFullString\obj\Debug\net7.0\CalculatorFullString.pdb
+D:\cs\CalculatorFullString\CalculatorFullString\obj\Debug\net7.0\CalculatorFullString.genruntimeconfig.cache
+D:\cs\CalculatorFullString\CalculatorFullString\obj\Debug\net7.0\ref\CalculatorFullString.dll
