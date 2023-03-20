@@ -58,5 +58,4 @@ Apakah anda ingin menghitung lagi? (Y / N):
 ```
  ---     
  ### Calculator Demo Video  
- 
- ![](https://github.com/daffaputra09/assets/blob/main/CalculatorFullString.gif)
+ <img src="https://github.com/daffaputra09/assets/blob/main/CalculatorFullString.gif" width="80%" >
